@@ -25,4 +25,4 @@ If you prefer to run this on your own hardware, this repo is for you.
 
 
 ## 🗣️ Authorship
-This project was created by **[@sam-mata](https://github.com/sam-mata)** as a simplified frontend of the excellent **[WhisperX](https://github.com/m-bain/whisperX)** project by **[Max Bain](https://github.com/m-bain)**.
+This project was created by **[@sam-mata](https://github.com/sam-mata)** as a simplified frontend of the excellent **[WhisperX](https://github.com/m-bain/whisperX)** project by **[Max Bain](https://github.com/m-bain)**, as well as the [Google Speech to Text](https://cloud.google.com/speech-to-text) tools.
