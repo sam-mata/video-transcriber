@@ -8,7 +8,6 @@
 
 ## ☁️ Online Demo
 A free to use version of this tool, utilising cloud computing, is available online **[here](https://huggingface.co/spaces/sam-mata/Lecture-Transcriber)**.
-If you prefer to run this on your own hardware, this repo is for you.
 
 
 ## 📦 Installation and Usage
